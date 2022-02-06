@@ -51,8 +51,4 @@ Jupyter Notebook, MS Excel, MS Power BI
 
 ![powerbi](https://user-images.githubusercontent.com/76841427/150670428-bd52a8ab-bf59-4619-a601-9333b8e7d983.PNG)
 
-# LinkedIn Post 📲
-
-
-# Youtube Video 🎬
 
